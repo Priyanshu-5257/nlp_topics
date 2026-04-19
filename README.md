@@ -345,3 +345,18 @@ Foundations → Classical NLP → Neural Era → Modern/GenAI
 ```
 
 Each section links to detailed notes in this repository.
+
+## Youtube Channels I follow - 
+
+[ZacharyLLM](https://www.youtube.com/@ZacharyLLM)
+[1littlecoder](https://www.youtube.com/@1littlecoder)
+[AndrejKarpathy](https://www.youtube.com/@AndrejKarpathy)
+[Deepia](https://www.youtube.com/@Deepia-ls2fo)
+[EfficientNLP](https://www.youtube.com/@EfficientNLP)
+[jbhuang0604](https://www.youtube.com/@jbhuang0604)
+[juliaturc](https://www.youtube.com/@juliaturc1)
+[PapersAreWonderful](https://www.youtube.com/@PapersAreWonderful)
+[engineerprompt](http://youtube.com/@engineerprompt)
+[very-normal](https://www.youtube.com/@very-normal)
+[WelchLabs](http://youtube.com/@WelchLabs)
+[campusx](https://www.youtube.com/@campusx-official)
